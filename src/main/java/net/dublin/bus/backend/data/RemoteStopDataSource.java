@@ -158,8 +158,6 @@ public class RemoteStopDataSource {
                         routeStops.add(new RouteStop(route.getNumber(), stop.getStopnumber()));
                     }
                 }
-
-                break;
             }
         }
     }
